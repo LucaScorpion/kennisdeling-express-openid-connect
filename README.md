@@ -1,15 +1,15 @@
 # Kennisdeling express-openid-connect
 
-Quick start:
+## Quick start
 
 ```shell
-cd express
 npm start
 ```
 
-Azure app registrations:
+## Links
 
-https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade
+- Azure app registrations: https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade
+- NPM package: https://www.npmjs.com/package/express-openid-connect
 
 ## Gotcha's
 

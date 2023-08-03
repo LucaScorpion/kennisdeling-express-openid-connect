@@ -45,7 +45,7 @@ app.use(express.static('public'));
 
 app.get('/api/me', (req, res) => {
     res.send(req.oidc.user);
-})
+});
 
 // Redirect alles (wat niet gevonden is) naar '/'.
 app.use((req, res) => {
