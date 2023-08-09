@@ -23,7 +23,7 @@ app.use(
             scope: 'openid email',
             redirect_uri: `${process.env.OIDC_BASE_URL}/auth/callback`,
             // Zorg dat je altijd het account selectie scherm krijgt.
-            // prompt: 'select_account',
+            prompt: 'select_account',
         },
         routes: {
             login: '/auth/login',

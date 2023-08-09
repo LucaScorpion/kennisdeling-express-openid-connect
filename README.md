@@ -6,6 +6,8 @@
 npm start
 ```
 
+Open http://localhost:3000 in de browser.
+
 ## Links
 
 - Azure app registrations: https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade
